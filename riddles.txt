@@ -1,0 +1,33 @@
+Riddle 1:
+You’re in a room with three light switches, each of which controls one of three light bulbs in the next room. Your task is to determine which switch controls which bulb. All lights are initially off, and you can't see into one room from the other. You may inspect the room only once. How can you determine which switch is connected to which light bulb?
+Answer:
+Call the switches 1, 2 and 3. Leave Switch 1 off. Turn Switch 2 on for five minutes and then turn it off. Turn Switch 3 on and leave it on. Enter the room. The bulb that is on is controlled by Switch 3 (the one you left on). Feel the light bulbs that are off for heat. The bulb that is off and warm is controlled by Switch 2 (the one you turned on, then off). The bulb that is off and cold is controlled by Switch 1 (the one that you didn't turn on).
+
+Riddle 2:
+If you had an infinite supply of water and a 5-liter and 3-liter bucket, how would you measure exactly 4 liters?
+Answer:
+Fill the 5-liter bucket first. Then using that bucket fill the 3-liter bucket being careful not to spill any. This leaves 2 liters in the 5-liter bucket. Now chuck away the water in the 3-liter bucket and refill with the remaining contents of the bigger bucket. Once again fill the 5-liter bucket and fill the second 3-liter bucket. This will leave you 4 liters in the 5-liter bucket.
+
+Riddle 3:
+There are three boxes, one contains only apples, one contains only oranges, and one contains both apples and oranges. The boxes have been incorrectly labeled such that no label identifies the actual contents of its box. Opening just one box, and without looking in the box, you take out one piece of fruit. By looking at the fruit, how can you immediately label all of the boxes correctly?
+Answer:
+Step 1. You know all 3 boxes are incorrectly labeled
+Step 2. Go to the box labeled “Apples + Oranges.”   Since the label is wrong, it must have one or the other.
+Step 3. This is the box to take one piece of fruit from. Whichever comes out is what that box contains. If you took out an apple, the box has only apples. If you took out an orange, vice versa.
+Step 4. Let’s say you grabbed an apple. Move the “Apples” label over to that box. Now it’s correctly labeled.
+Step 5. You know the “Oranges” box is still labeled wrong (because all 3 were labeled wrong to start and you haven’t touched it). And you know it’s not “Apples”.  So it has to be “Apples + Oranges”.
+Step 6. The last box is “Oranges”. (The same process above would work if you had pulled out an orange at the start.)
+
+Riddle 4: 
+Two guards each watch a door. One of these doors leads to Paradise, and the other leads to Hell. We know that one of the guardians is always lying, while the other is only telling the truth. However, we do not know which guard is in front of which door. You want to go to heaven, and you have the right to only one question! Once the door is crossed, it is impossible to go back.
+What question will you ask to be sure to find the right door?
+Answer: 
+To be sure of not making a mistake, just ask any guardian: "If I asked the other guardian to tell me the door of paradise, what would he answer me?" The two guards will then indicate the bad.
+The guardian telling the truth will tell you the wrong door, because he knows the other guardian would lie on the issue. As for the liar, if you ask him the question, he will also indicate the door of Hell, knowing that the other one would have given you the right answer.
+Then you have to take the other door, and you will be in Paradise!
+
+Riddle 5:
+You are visiting a new town and need a haircut. There are only two barbers in town. You visit each shop. One is disorganized nad messy and the barber has a horrible haircut. The other one is neat and tidy, and the barber has a wonderful haircut. Which barber would you choose and why?
+Answer:
+Since there's only two barbers, they cut each others hair. So the disorganized and messy barber with the bad haircut. His shop is messy because he's busy and his hair is bad cause the clean and tidy barber cuts it poorly.
+
