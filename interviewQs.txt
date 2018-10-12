@@ -1,0 +1,19 @@
+Use analogies! Simplicity is key!
+
+1. Tell me your story in about a minute. Why did you decide to get into coding? 
+
+    Employers are looking for how you pitch yourself. Can you tell your story to stand apart from other candidates. How can your past experince be and added skill to their team.
+
+2.Tell me about something that you did outside your comfort zone that you're glad you did. Why did you decide to do it?
+
+    This shows you are willing to take risks. Even taking this bootcamp is an good example of this.
+
+3.Tell me about your best McGuyver moment( A time where you had a problem that you had to quickly solve).
+
+    This shows your creativity and how you approach problem solving.
+
+4. In a few sentences explain what either git or github is....to an 8 year old
+
+5. Tell me about a time when you worked under close supervision or extremely loose supervision. How did you handle that?
+
+6. What is the most important thing to look for, or check, when reviewing another team member's code?
